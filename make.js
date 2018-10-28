@@ -11,5 +11,3 @@ function make(a) {
         }
     }
 }
-
-console.log(make(15)(34,21,41)(666)(sum));
